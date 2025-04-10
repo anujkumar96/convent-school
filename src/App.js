@@ -21,6 +21,7 @@ function App() {
       <Header />
       <Routes>
       <Route path="/" element={<MainPage />} />
+      <Route path="/convent-school" element={<MainPage />} />
       <Route path="/overview" element={<Overview/>} />
       <Route path="/mission-vision" element={<MissionVision/>} />
       <Route path="/curricular-activities" element={<CoCurricularActivities/>} />
