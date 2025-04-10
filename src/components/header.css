@@ -1,0 +1,129 @@
+.top-bar {
+  background-color: #1e2a38;
+  color: white;
+  font-size: 14px;
+  padding: 10px 0;
+}
+
+.logo{
+  background-image: ('./../assets/school-image.jpg');
+}
+
+.top-bar .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.contact-info span {
+  margin-right: 20px;
+}
+
+.social-links a {
+  color: white;
+  margin-right: 10px;
+  font-size: 16px;
+}
+
+.main-header {
+  background-color: #f2f0f0;
+  padding: 20px 0;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  height: 80px;
+  margin-right: 20px;
+}
+
+.school-name h1 {
+  margin: 0;
+  font-size: 24px;
+}
+
+.tagline {
+  font-size: 14px;
+  color: #302e2e;
+}
+
+.header-buttons .btn {
+  margin-left: 15px;
+  padding: 8px 15px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.btn-primary {
+  background-color: #2a68b2;
+  color: white;
+}
+
+.btn-secondary {
+  background-color: #f9c74f;
+  color: white;
+}
+
+.main-nav {
+  position: sticky;
+  top: 0;
+  z-index: 999; /* Stay on top */
+  background-color: #2a68b2;
+}
+
+.home-link{
+  margin-top: 2px;
+}
+
+.nav-menu {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-menu > li {
+  position: relative;
+}
+
+.nav-menu .sub-menu {
+  display: none;
+  position: absolute;
+  background-color: #1e2a38;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  top: 100%;
+  left: 0;
+}
+
+.menu-item-has-children:hover .sub-menu {
+  display: block;
+}
+
+.sub-menu li a {
+  padding: 10px 20px;
+  color: white;
+}
+
+.nav-menu a.active {
+  color: #f9e26f;
+  font-weight: bold;
+  /* border-bottom: 2px solid #fdd835; */
+}
+
+.nav-menu a {
+  text-decoration: none;
+  color: red;
+  padding: 10px 15px;
+  display: inline-block;
+  transition: color 0.3s ease;
+}
+
+.nav-menu li:hover > a {
+  color: rgb(16, 246, 16);
+}
+
