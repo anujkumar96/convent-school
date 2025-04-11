@@ -7,6 +7,7 @@ import children from './../assets/children.jpeg'
 import boating from './../assets/tour2.jpeg'
 import learningActivities from './../assets/lab.jpeg'
 import sports from './../assets/activities/sports2.jpg'
+import './mainPage.css';
 
 const MainPage = () => {
   const facilities = [
@@ -43,9 +44,9 @@ const MainPage = () => {
         <div className="container">
           <marquee behavior="scroll" direction="left" scrollAmount="5">
             <strong>
-              Admission Open (Session 2025-26) : For Classes Nursery to XII.
+              Admission Open </strong> (Session 2025-26) : For Classes Pre-Nursery to X.
               Contact: +91 63977 65965
-            </strong>
+            
           </marquee>
         </div>
       </div>

@@ -31,14 +31,14 @@ const Header = () => {
 
   return (
     <header>
-      <div className="top-bar">
+      {/* <div className="top-bar">
         <div className="container">
           <div className="contact-info">
             <span><FaPhone /> +91 63977 65965</span>
             <span><FaEnvelope /> sangeeta.sharma65965@gmail.com</span>
           </div>
         </div>
-      </div>
+      </div> */}
 
       <div className="main-header">
         <div className="container">
