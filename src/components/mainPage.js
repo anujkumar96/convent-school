@@ -40,17 +40,6 @@ const MainPage = () => {
         </div>
       </div>
 
-      <div className="announcement-bar">
-        <div className="container">
-          <marquee behavior="scroll" direction="left" scrollAmount="5">
-            <strong>
-              Admission Open </strong> (Session 2025-26) : For Classes Pre-Nursery to X.
-              Contact: +91 63977 65965
-            
-          </marquee>
-        </div>
-      </div>
-
       <section className="about-section">
         <div className="container">
           <h2 className="section-title">

@@ -31,7 +31,17 @@ const Header = () => {
     }
   };
 
-  return (
+  return  <>
+    <div className="announcement-bar">
+        <div className="container">
+          <marquee behavior="scroll" direction="left" scrollAmount="5">
+            <strong>
+              Admission Open </strong> (Session 2025-26) : For Classes Pre-Nursery to X.
+              Contact: +91 63977 65965
+            
+          </marquee>
+        </div>
+      </div>
     <header>
       <div className="main-header">
         <div className="container">
@@ -42,10 +52,7 @@ const Header = () => {
               <p className="tagline">Knowledge | Excellence | Character</p>
             </div>
           </div>
-          <div className="header-buttons">
-            <a href="#" className="btn btn-primary">Online Admission 2025-26</a>
-            <a href="#" className="btn btn-secondary">Online Fee Payment</a>
-          </div>
+         
         </div>
       </div>
 
@@ -108,7 +115,7 @@ const Header = () => {
         </div>
       </nav>
     </header>
-  );
+  </>
 };
 
 export default Header;
