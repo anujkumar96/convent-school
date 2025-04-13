@@ -1,5 +1,5 @@
 import React from 'react';
-import './overview.css'; // Make sure this CSS file is in the same directory
+import './overview.css';
 
 const Overview = () => {
   return (

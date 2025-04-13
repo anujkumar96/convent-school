@@ -1,89 +1,94 @@
 .school-overview {
-    background-color: #f9f9f9;
-    padding: 60px 20px;
-  }
-  
-  .school-overview .container {
-    max-width: 1200px;
-    margin: 0 auto;
-    text-align: center;
-  }
-  
-  .section-title {
-    font-size: 32px;
-    color: #1d3557;
-    margin-bottom: 20px;
-  }
-  
-  .section-title strong {
-    color: #e63946;
-  }
-  
-  .overview-intro {
-    font-size: 16px;
-    color: #333;
-    margin-bottom: 40px;
-    max-width: 800px;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  
-  .overview-highlights {
-    display: flex;
-    gap: 20px;
-  }
-  
-  .highlight-box {
-    background-color: #fff;
-    border-radius: 8px;
-    padding: 30px 20px;
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
-    transition: transform 0.3s ease;
-  }
-  
-  .highlight-box:hover {
-    transform: translateY(-5px);
-    background-color: rgb(220, 241, 213);
-  }
-  
-  .highlight-box h3 {
-    font-size: 20px;
-    color: #1d3557;
-    margin-bottom: 10px;
-  }
-  
-  .highlight-box p {
-    font-size: 14px;
-    color: #555;
-  }
+  background-color: #f9f9f9;
+  padding: 60px 20px;
+}
 
-  .school-overview div h2{
-    margin: auto;
-    width: 100%;
-  }
-  
-  /* Responsive Highlights Layout */
+.school-overview .container {
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.section-title {
+  font-size: 32px;
+  color: #1d3557;
+  margin-bottom: 20px;
+}
+
+.section-title strong {
+  color: #e63946;
+}
+
+.overview-intro {
+  font-size: 16px;
+  color: #333;
+  margin-bottom: 40px;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.overview-highlights {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.highlight-box {
+  background-color: #fff;
+  border-radius: 8px;
+  padding: 30px 20px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+  transition: transform 0.3s ease;
+  flex: 1 1 30%;
+  max-width: 350px;
+  min-width: 260px;
+}
+
+.highlight-box:hover {
+  transform: translateY(-5px);
+  background-color: #e8f5e9;
+}
+
+.highlight-box h3 {
+  font-size: 20px;
+  color: #1d3557;
+  margin-bottom: 10px;
+}
+
+.highlight-box p {
+  font-size: 14px;
+  color: #555;
+}
+
+.school-overview div h2 {
+  margin: auto;
+  width: 100%;
+}
+
+/* Tablet */
 @media (max-width: 992px) {
-  .overview-highlights {
-    flex-wrap: wrap;
-    justify-content: center;
-  }
-
   .highlight-box {
     flex: 1 1 45%;
-    margin: 10px;
+    max-width: 90%;
+  }
+
+  .section-title {
+    font-size: 28px;
+  }
+
+  .overview-intro {
+    font-size: 15px;
   }
 }
 
+/* Mobile */
 @media (max-width: 600px) {
-  .overview-highlights {
-    flex-direction: column;
-    align-items: center;
-  }
-
   .highlight-box {
+    flex: 1 1 100%;
     width: 100%;
-    max-width: 90%;
+    max-width: 100%;
     margin-bottom: 20px;
   }
 
@@ -103,10 +108,4 @@
   .highlight-box p {
     font-size: 13px;
   }
-}
-.overview-highlights {
-  display: flex;
-  gap: 20px;
-  flex-wrap: wrap;
-  justify-content: center;
 }
