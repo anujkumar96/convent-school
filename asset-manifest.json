@@ -1,13 +1,17 @@
 {
   "files": {
     "main.css": "/convent-school/static/css/main.981bbc9f.css",
-    "main.js": "/convent-school/static/js/main.98ba6eac.js",
+    "main.js": "/convent-school/static/js/main.7b25f2de.js",
     "static/js/453.d597bc4b.chunk.js": "/convent-school/static/js/453.d597bc4b.chunk.js",
     "static/media/lab2.png": "/convent-school/static/media/lab2.83e02368d55f721cf961.png",
     "static/media/practice.jpeg": "/convent-school/static/media/practice.ebe06a00fc0d8faae7f4.jpeg",
+    "static/media/trip.jpeg": "/convent-school/static/media/trip.c5a3f0533ff0391ab6de.jpeg",
     "static/media/excer.jpeg": "/convent-school/static/media/excer.2c2489e38815fdb0ac83.jpeg",
+    "static/media/photosession.jpeg": "/convent-school/static/media/photosession.05a6c3910ec6e41f19e9.jpeg",
+    "static/media/award.jpeg": "/convent-school/static/media/award.a55b6a2c8800d4d74a30.jpeg",
     "static/media/play.jpeg": "/convent-school/static/media/play.7c259444e9b203b13707.jpeg",
     "static/media/school-image.jpg": "/convent-school/static/media/school-image.abb954de79d46241a347.jpg",
+    "static/media/dance.jpeg": "/convent-school/static/media/dance.275d7967f04b6d13ff1f.jpeg",
     "static/media/lab.jpeg": "/convent-school/static/media/lab.cc98d17e3767eb442e51.jpeg",
     "static/media/principal.jpeg": "/convent-school/static/media/principal.5c374ba2cd2dc92ee4bf.jpeg",
     "static/media/tour1.jpeg": "/convent-school/static/media/tour1.6e75776dc698c32482a5.jpeg",
@@ -15,14 +19,13 @@
     "static/media/children.jpeg": "/convent-school/static/media/children.d964f84c33ab01de248c.jpeg",
     "static/media/tour2.jpeg": "/convent-school/static/media/tour2.ef6e5f09fdc394b06ff6.jpeg",
     "static/media/celebration.jpeg": "/convent-school/static/media/celebration.55227fdffbfa67959574.jpeg",
-    "static/media/function.jpg": "/convent-school/static/media/function.1dc5ce21e93a35a03658.jpg",
     "index.html": "/convent-school/index.html",
     "main.981bbc9f.css.map": "/convent-school/static/css/main.981bbc9f.css.map",
-    "main.98ba6eac.js.map": "/convent-school/static/js/main.98ba6eac.js.map",
+    "main.7b25f2de.js.map": "/convent-school/static/js/main.7b25f2de.js.map",
     "453.d597bc4b.chunk.js.map": "/convent-school/static/js/453.d597bc4b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.981bbc9f.css",
-    "static/js/main.98ba6eac.js"
+    "static/js/main.7b25f2de.js"
   ]
 }
