@@ -8,6 +8,10 @@ import lab from'./../assets/lab.jpeg'
 import sports from './../assets/sports.jpeg'
 import tour from'./../assets/tour1.jpeg'
 import tour2 from'./../assets/tour2.jpeg'
+import dance from'./../assets/dance.jpeg'
+import award from'./../assets/award.jpeg'
+import trip from'./../assets/trip.jpeg'
+import celebrate from'./../assets/photosession.jpeg'
 
 
 const images = [
@@ -18,7 +22,11 @@ const images = [
   lab,
   sports,
   tour,
-  tour2
+  tour2,
+  dance,
+  award,
+  trip,
+  celebrate
 ];
 
 const GalleryPage = () => {

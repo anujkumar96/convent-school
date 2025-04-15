@@ -2,7 +2,7 @@ import React from 'react';
 import './campus.css';
 import campusImg from './../assets/activities/profile.jpeg';
 import birthday from './../assets/celebration.jpeg';
-import annual from './../assets/activities/function.jpg';
+import annual from './../assets/dance.jpeg';
 import sports from './../assets/sports.jpeg';
 import devotional from './../assets/practice.jpeg';
 import exerciseImg from './../assets/excer.jpeg';
