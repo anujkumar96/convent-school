@@ -14,6 +14,7 @@ import PrincipalMessage from './components/principalMessage';
 import GalleryPage from './components/gallery';
 import CampusPage from './components/campus';
 import LaboratoriesPage from './components/laboratory';
+import Miscellaneous from './components/miscellaneous';
 
 function App() {
   return (
@@ -30,6 +31,7 @@ function App() {
       <Route path="/gallery" element={<GalleryPage/>} />
       <Route path="/campus" element={<CampusPage/>} />
       <Route path="/lab" element={<LaboratoriesPage/>} />
+      <Route path="/miscellaneous" element={<Miscellaneous/>} />
       </Routes>
       <Footer />
     </Router>

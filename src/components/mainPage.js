@@ -3,10 +3,10 @@ import labImg from './../assets/lab.jpeg';
 import sportsImg from './../assets/sports.jpeg';
 import playImg from './../assets/play.jpeg';
 import schoolImage from './../assets/school-image.jpg'
-import children from './../assets/children.jpeg'
+import children from './../assets/sportsday.jpeg'
 import boating from './../assets/tour2.jpeg'
 import learningActivities from './../assets/lab.jpeg'
-import sports from './../assets/activities/sports2.jpg'
+import sports from './../assets/sportsdaygroup.jpeg'
 import './mainPage.css';
 
 const MainPage = () => {
@@ -113,15 +113,15 @@ const MainPage = () => {
       <section className="stats-counter">
         <div className="container">
           <div className="stat-item">
-            <div className="stat-number">15+</div>
+            <div className="stat-number">35+</div>
             <div className="stat-label">Highly Qualified Faculty</div>
           </div>
           <div className="stat-item">
-            <div className="stat-number">800+</div>
+            <div className="stat-number">900+</div>
             <div className="stat-label">Happy Parents</div>
           </div>
           <div className="stat-item">
-            <div className="stat-number">12+</div>
+            <div className="stat-number">26+</div>
             <div className="stat-label">Classrooms</div>
           </div>
         </div>

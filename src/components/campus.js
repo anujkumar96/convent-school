@@ -3,7 +3,7 @@ import './campus.css';
 import campusImg from './../assets/activities/profile.jpeg';
 import birthday from './../assets/celebration.jpeg';
 import annual from './../assets/dance.jpeg';
-import sports from './../assets/sports.jpeg';
+import sports from './../assets/kidevent.jpeg';
 import devotional from './../assets/practice.jpeg';
 import exerciseImg from './../assets/excer.jpeg';
 import labImg from './../assets/lab.jpeg';

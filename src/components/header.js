@@ -96,10 +96,11 @@ const Header = () => {
             </li>
 
             <li className="menu-item-has-children">
-              <a href="#" className={isSubActive(['/campus', '/lab']) ? 'active' : ''}>Infrastructure</a>
+              <a href="#" className={isSubActive(['/campus', '/lab','/miscellaneous']) ? 'active' : ''}>Infrastructure</a>
               <ul className="sub-menu">
                 <li><Link to="/campus" className={isActive('/campus') ? 'active' : ''}>Campus</Link></li>
                 <li><Link to="/lab" className={isActive('/lab') ? 'active' : ''}>Laboratories</Link></li>
+                <li><Link to="/miscellaneous" className={isActive('/miscellaneous') ? 'active' : ''}>Miscellaneous</Link></li>
               </ul>
             </li>
 

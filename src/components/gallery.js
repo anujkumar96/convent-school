@@ -12,6 +12,10 @@ import dance from'./../assets/dance.jpeg'
 import award from'./../assets/award.jpeg'
 import trip from'./../assets/trip.jpeg'
 import celebrate from'./../assets/photosession.jpeg'
+import excercise1 from'./../assets/excercise1.jpeg'
+import elearning from'./../assets/elearning2.jpeg'
+import library from'./../assets/library.jpeg'
+import valley2 from'./../assets/valley2.jpeg'
 
 
 const images = [
@@ -26,7 +30,11 @@ const images = [
   dance,
   award,
   trip,
-  celebrate
+  celebrate,  
+  excercise1,
+  elearning,
+  library,
+  valley2
 ];
 
 const GalleryPage = () => {
