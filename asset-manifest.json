@@ -1,31 +1,41 @@
 {
   "files": {
-    "main.css": "/convent-school/static/css/main.981bbc9f.css",
-    "main.js": "/convent-school/static/js/main.7b25f2de.js",
+    "main.css": "/convent-school/static/css/main.c7a1ae5a.css",
+    "main.js": "/convent-school/static/js/main.cac98b21.js",
     "static/js/453.d597bc4b.chunk.js": "/convent-school/static/js/453.d597bc4b.chunk.js",
     "static/media/lab2.png": "/convent-school/static/media/lab2.83e02368d55f721cf961.png",
     "static/media/practice.jpeg": "/convent-school/static/media/practice.ebe06a00fc0d8faae7f4.jpeg",
+    "static/media/excercise1.jpeg": "/convent-school/static/media/excercise1.0596eb009777156f7dce.jpeg",
+    "static/media/republicday.jpeg": "/convent-school/static/media/republicday.af7490312e4db3b43b3e.jpeg",
     "static/media/trip.jpeg": "/convent-school/static/media/trip.c5a3f0533ff0391ab6de.jpeg",
+    "static/media/religiousevent.jpeg": "/convent-school/static/media/religiousevent.c25f1ad49a988fd7fd16.jpeg",
     "static/media/excer.jpeg": "/convent-school/static/media/excer.2c2489e38815fdb0ac83.jpeg",
+    "static/media/sportsdaygroup.jpeg": "/convent-school/static/media/sportsdaygroup.d399f8c8106c5e0ab522.jpeg",
     "static/media/photosession.jpeg": "/convent-school/static/media/photosession.05a6c3910ec6e41f19e9.jpeg",
     "static/media/award.jpeg": "/convent-school/static/media/award.a55b6a2c8800d4d74a30.jpeg",
     "static/media/play.jpeg": "/convent-school/static/media/play.7c259444e9b203b13707.jpeg",
+    "static/media/kidevent.jpeg": "/convent-school/static/media/kidevent.c942d3c74a8eb961e3d4.jpeg",
     "static/media/school-image.jpg": "/convent-school/static/media/school-image.abb954de79d46241a347.jpg",
     "static/media/dance.jpeg": "/convent-school/static/media/dance.275d7967f04b6d13ff1f.jpeg",
+    "static/media/sportsday.jpeg": "/convent-school/static/media/sportsday.79a4ff56c93d17880ebc.jpeg",
     "static/media/lab.jpeg": "/convent-school/static/media/lab.cc98d17e3767eb442e51.jpeg",
+    "static/media/valley2.jpeg": "/convent-school/static/media/valley2.71a2647b8ba46da01526.jpeg",
     "static/media/principal.jpeg": "/convent-school/static/media/principal.5c374ba2cd2dc92ee4bf.jpeg",
     "static/media/tour1.jpeg": "/convent-school/static/media/tour1.6e75776dc698c32482a5.jpeg",
     "static/media/sports.jpeg": "/convent-school/static/media/sports.e08ea2709d759ec9fd3c.jpeg",
     "static/media/children.jpeg": "/convent-school/static/media/children.d964f84c33ab01de248c.jpeg",
+    "static/media/elearning2.jpeg": "/convent-school/static/media/elearning2.c370e391dfa46b2776c3.jpeg",
     "static/media/tour2.jpeg": "/convent-school/static/media/tour2.ef6e5f09fdc394b06ff6.jpeg",
+    "static/media/library.jpeg": "/convent-school/static/media/library.e81a7c4b2f0f2419e74c.jpeg",
     "static/media/celebration.jpeg": "/convent-school/static/media/celebration.55227fdffbfa67959574.jpeg",
+    "static/media/elearning.jpeg": "/convent-school/static/media/elearning.e74c140f63a62760db77.jpeg",
     "index.html": "/convent-school/index.html",
-    "main.981bbc9f.css.map": "/convent-school/static/css/main.981bbc9f.css.map",
-    "main.7b25f2de.js.map": "/convent-school/static/js/main.7b25f2de.js.map",
+    "main.c7a1ae5a.css.map": "/convent-school/static/css/main.c7a1ae5a.css.map",
+    "main.cac98b21.js.map": "/convent-school/static/js/main.cac98b21.js.map",
     "453.d597bc4b.chunk.js.map": "/convent-school/static/js/453.d597bc4b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.981bbc9f.css",
-    "static/js/main.7b25f2de.js"
+    "static/css/main.c7a1ae5a.css",
+    "static/js/main.cac98b21.js"
   ]
 }
