@@ -12,7 +12,7 @@ const Footer = () => {
             </h3>
             <p>Dauji Mandir Road, Shamshabad, Agra - 283125 (Murli Wala Kua)</p>
             <p>Agra, Uttar Pradesh</p>
-            <p>Contact: <a href="tel:+916397765965">+91 63977 65965</a></p>
+            <p>Contact: <a href="tel:+916397765965">+91 63977 65965, +91 9528102067</a></p>
             <p>Email: <a href="mailto:sangeeta.sharma65965@gmail.com">sangeeta.sharma65965@gmail.com</a></p>
           </div>
 

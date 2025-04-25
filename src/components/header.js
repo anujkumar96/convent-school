@@ -37,7 +37,7 @@ const Header = () => {
           <marquee behavior="scroll" direction="left" scrollAmount="5">
             <strong>
               Admission Open </strong> (Session 2025-26) : For Classes Pre-Nursery to X.
-              Contact: +91 63977 65965
+              Contact: +91 63977 65965, +91 9528102067
             
           </marquee>
         </div>

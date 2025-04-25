@@ -15,7 +15,7 @@ const AdmissionModal = ({ isOpen, onClose }) => {
         </p>
         <div className="contact-info">
 
-          <p><FaPhoneAlt className="contact-icon" color='#457b9d' /> <span><strong> Phone:</strong> +91 63977 65965</span></p>
+          <p><FaPhoneAlt className="contact-icon" color='#457b9d' /> <span><strong> Phone:</strong> +91 63977 65965, +91 9528102067</span></p>
           <p><FaEnvelope className="contact-icon" color='#F1A208 '/><span><strong>  Email:</strong> sangeeta.sharma65965@gmail.com</span> </p>
         </div>
         <button className="close-btn" onClick={onClose}>Close</button>
