@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/convent-school/static/css/main.c7a1ae5a.css",
-    "main.js": "/convent-school/static/js/main.cac98b21.js",
+    "main.js": "/convent-school/static/js/main.c8e70b64.js",
     "static/js/453.d597bc4b.chunk.js": "/convent-school/static/js/453.d597bc4b.chunk.js",
     "static/media/lab2.png": "/convent-school/static/media/lab2.83e02368d55f721cf961.png",
     "static/media/practice.jpeg": "/convent-school/static/media/practice.ebe06a00fc0d8faae7f4.jpeg",
@@ -31,11 +31,11 @@
     "static/media/elearning.jpeg": "/convent-school/static/media/elearning.e74c140f63a62760db77.jpeg",
     "index.html": "/convent-school/index.html",
     "main.c7a1ae5a.css.map": "/convent-school/static/css/main.c7a1ae5a.css.map",
-    "main.cac98b21.js.map": "/convent-school/static/js/main.cac98b21.js.map",
+    "main.c8e70b64.js.map": "/convent-school/static/js/main.c8e70b64.js.map",
     "453.d597bc4b.chunk.js.map": "/convent-school/static/js/453.d597bc4b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c7a1ae5a.css",
-    "static/js/main.cac98b21.js"
+    "static/js/main.c8e70b64.js"
   ]
 }
